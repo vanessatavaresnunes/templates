@@ -82,17 +82,19 @@
 <conteúdo>
 # 2. Visão Geral do Projeto
 <conteúdo>
-## 2.1 Entendimento da Demanda
+## 2.1 Entendimento do Parceiro
 <conteúdo>
 ### 2.1.1 Partes Interessadas
 <conteúdo>
 ### 2.1.2 Análise da Indústria
 <conteúdo>
+### 2.1.3 Modelo de Negócio
+<conteúdo>
+### 2.1.4 Tendências
+<conteúdo>
+### 2.1.5 Players de Mercado
+<conteúdo>
 ## 2.2 Problema
-<conteúdo>
-### 2.2.1 Análise do Problema
-<conteúdo>
-### 2.2.2 Análise do Cenário (Matriz SWOT)
 <conteúdo>
 # 3. Proposta da Solução
 <conteúdo>
@@ -100,23 +102,17 @@
 <conteúdo>
 ## 3.2 Proposta Tecnológica e Benefícios
 <conteúdo>
-### 3.2.1 Tipo de arquitetura de nuvem escolhida
-<conteúdo>
-### 3.2.2 Arquitetura de nuvem escolhida
-<conteúdo>
-### 3.2.3 Benefícios trazidos pela arquitetura de nuvem proposta]
-<conteúdo>
 ## 3.3 Proposta de Valor (Value Proposition Canvas)
 <conteúdo>
 ## 3.4 Matriz de Risco
 <conteúdo>
-# 4. Análise de experiência do usuário
+## 3.5 Estimativa de Investimento
 <conteúdo>
-## 4.1 Perfis de Usuários
+# 4. Análise dos processos
 <conteúdo>
-## 4.2 Personas
+## 4.1 Cadeia de Valor
 <conteúdo>
-## 4.3 Mapa de jornada do usuário
+## 4.2 Modelagem de Processos
 <conteúdo>
 # 5. Requisitos
 <conteúdo>
@@ -126,45 +122,53 @@
 <conteúdo>
 ## 5.3 Casos de Uso
 <conteúdo>
+## 5.4 Casos de Uso x Requisitos Funcionais
+<conteúdo>
 # 6. Projeto de Solução
 <conteúdo>
 ## 6.1 Diagrama de Classes
 <conteúdo>
-### 6.1.1 Diagrama de Classes de Domínio
-<conteúdo>
-### 6.1.2 Diagrama de Classes de Implementação
-<conteúdo>
-## 6.2 Diagrama de Componentes da Arquitetura
+## 6.2 Arquitetura da Solução
 <conteúdo>
 ## 6.3 Diagrama de Implantação
 <conteúdo>
 ## 6.4 Tecnologias e Ferramentas
 <conteúdo>
+## 6.5 Padrões de Trabalho
+<conteúdo>
 # 7. Interface
 <conteúdo>
-## 7.1 Design System
+## 7.1 Projeto de Interface (Wireframes)
 <conteúdo>
-## 7.2 Projeto de Interface (Wireframes)
+## 7.2 Mockup
 <conteúdo>
 ## 7.3 Frontend
 <conteúdo>
+## 7.4 Análise de Usabilidade do Frontend
+<conteúdo>
 # 8. Projeto de Banco de Dados
 <conteúdo>
-## 8.1 Modelo Conceitual
+## 8.1 Especificação da Base de Dados para Modelo de Recomendação
 <conteúdo>
-## 8.2 Modelo Lógico
+## 8.2 Modelo Conceitual
 <conteúdo>
-# 9. Testes de Software
+## 8.3 Modelo Lógico
 <conteúdo>
-## 9.1 Demonstração da integração
+# 9. Construção da Solução
 <conteúdo>
-## 9.2 Teste de Integração
+## 9.1 Modelo de Recomendação
 <conteúdo>
-## 9.3 Testes automatizados
+## 9.2 Estrutura da Solução
 <conteúdo>
-## 9.4 Testes de Usabilidade
+# 10. Testes de Software
 <conteúdo>
-## 9.5 Testes de Requisitos Não Funcionais
+## 9.1 Testes de Usabilidade para Mockup
+<conteúdo>
+## 9.2 Testes de Integração
+<conteúdo>
+## 9.3 Testes da API Externa
+<conteúdo>
+## 9.4 Testes de Integração do Modelo de Recomendação
 <conteúdo>
 # 10. Procedimento de Implantação da Solução
 <conteúdo>
@@ -172,7 +176,7 @@
 <conteúdo>
 ## 10.2 Procedimento de Implantação do Banco de Dados
 <conteúdo>
-## 10.3 Documentação Automática do Sistema (Swagger)
+## 10.3 Documentação Automática do Sistema
 <conteúdo>
 # Referências
 <conteúdo>
