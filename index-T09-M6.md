@@ -2,9 +2,9 @@
 <tr>
 <Table>
   <tr>
-    <td><a href= "https://gerandofalcoes.com//"><img src="/imagens/logo-gerandofalcoes.png" alt="Gerando Falcões" border="0"></td>
+    <td><a href= "https://www.fdc.org.br/"><img src="/imagens/logoFDC.png" alt="Fundação Dom Cabral" border="0"></td>
     <td>
-      <a href= "https://www.inteli.edu.br/"><img src="/imagens/logo-inteli.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
+      <a href= "https://www.inteli.edu.br/"><img src="/imagens/inteli-logo.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
     </td>
   </tr>
 </table>
@@ -26,52 +26,54 @@
 
 - [1. Termos e Abreviações](#termos-abreviacoes)
 - [2. Visão Geral do Projeto](#visão-geral-do-projeto)
-  - [2.1 Entendimento da Demanda](#entendimento-demanda)
+  - [2.1 Entendimento do Parceiro](#entendimento-parceiro)
     - [2.1.1 Partes Interessadas](#partes-interessadas)
     - [2.1.2 Análise da Indústria](#analise-da-industria)
+    - [2.1.3 Modelo de Negócio](#modelo-de-negocio)
+    - [2.1.4 Tendências](#tendencias)
+    - [2.1.5 Players de Mercado](#players-mercado)
   - [2.2 Problema](#problema)
-    - [2.2.1 Análise do Problema](#análise-do-problema)
-    - [2.2.2 Análise do Cenário (Matriz SWOT)](#análise-do-cenário-e-Matriz-SWOT)
 - [3. Proposta da Solução](#proposta-de-solucao)
   - [3.1 Descritivo Geral da Solução](#descritivo-da-solucao)
   - [3.2 Proposta Tecnológica e Benefícios](#proposta-tecnologica-beneficios)
-    - [3.2.1 Tipo de arquitetura de nuvem escolhida](#tipo-arquitetura-nuvem-escolhida)
-    - [3.2.2 Arquitetura de nuvem escolhida](#arquitetura-nuvem-escolhida)
-    - [3.2.3 Benefícios trazidos pela arquitetura de nuvem proposta](#beneficios-arquitetura)
   - [3.3 Proposta de Valor (Value Proposition Canvas)](#value-canvas)
   - [3.4 Matriz de Risco](#matriz-de-risco)
-- [4. Análise de experiência do usuário](#experiencia-usuario)
-  - [4.1 Perfis de Usuários](#perfil-usuario)
-  - [4.2 Personas](#personas)
-  - [4.3 Mapa de jornada do usuário](#jornada-usuario) 
+  - [3.5 Estimativa de Investimento](#estimativa-investimento)
+- [4. Análise dos processos](#analise-processos)
+  - [4.1 Cadeia de Valor](#cadeia-valor-processos)
+  - [4.2 Modelagem de processos](#modelo-bpmn) 
 - [5. Requisitos](#requisitos)
   - [5.1 Requisitos Funcionais](#requisitos-funcionais)
   - [5.2 Requisitos não Funcionais](#requisitos-não-funcionais)
   - [5.3 Casos de Uso](#casos-de-uso)
+  - [5.4 Casos de Uso x Requisitos Funcionais](#casodeuso-reqfunc)
 - [6. Projeto de Solução](#projeto-solucao)
   - [6.1 Diagrama de Classes](#diagrama-classes)
-    - [6.1.1 Diagrama de Classes de Domínio](#diagrama-classes-dominio)
-    - [6.1.2 Diagrama de Classes de Implementação](#diagrama-classes-implementacao)
-  - [6.2 Diagrama de Componentes da Arquitetura](#diagrama-componentes)
+  - [6.2 Arquitetura da Solução](#diagrama-arquitetura)
   - [6.3 Diagrama de Implantação](#diagrama-implantacao)
   - [6.4 Tecnologias e Ferramentas](#tecnologias-ferramentas)
+  - [6.5 Padrões de Trabalho](#padroes-trabalho)
 - [7. Interface](#interface)
-  - [7.1 Design System](#design-system)
-  - [7.2 Projeto de Interface (Wireframes)](#wireframe)
-  - [7.3 Frontend] (#frontend) 
+  - [7.1 Projeto de Interface (Wireframes)](#wireframe)
+  - [7.2 Mockup](#mockup)
+  - [7.3 Frontend](#frontend)
+  - [7.4 Análise de Usabilidade do Frontend](#usabilidade-frontend)
 - [8. Projeto de Banco de Dados](#projeto-de-banco-de-dados)
-  - [Modelo Conceitual](#modelo-conceitual)
-  - [Modelo Lógico](#modelo-conceitual)
-- [9. Testes de Software](#testes-de-software)
-  - [9.1 Demonstração da integração](#demonstracao-integracao)
-  - [9.2 Teste de Integração](#teste-de-integracao)
-  - [9.3 Testes automatizados](#teste-automatizado)
-  - [9.4 Testes de Usabilidade](#teste-de-usabilidade)
-  - [9.5 Testes de Requisitos Não Funcionais](#teste-de-rnf)
+  - [8.1 Especificação da Base de Dados para Modelo de Recomendação](#basedados-recomendacao)
+  - [8.2 - Modelo Conceitual](#modelo-conceitual)
+  - [8.3 - Modelo Lógico](#modelo-conceitual)
+- [9. Construção da Solução](#testes-de-software)
+  - [9.1 Modelo de Recomendação](#modelo-recomendacao)
+  - [9.2 Estrutura da solução](#estrutura-solucao)
+- [10. Testes de Software](#testes-de-software)
+  - [9.1 Testes de Usabilidade para Mockup](#teste-de-usabilidade)
+  - [9.2 Testes de Integração](#teste-de-integracao)
+  - [9.3 Testes da API Externa](#teste-automatizado)
+  - [9.5 Testes de Integração do Modelo de Recomendação](#teste-de-rnf)
 - [10. Procedimento de Implantação da Solução](#procedimento-implantacao)
   - [10.1 Procedimento de Implantação do Sistema](#procedimento-implantacao-sistema)
   - [10.2 Procedimento de Implantação do Banco de Dados](#procedimento-implantacao-bd)
-  - [10.3 Documentação Automática do Sistema (Swagger)](#documentacao-automatica)
+  - [10.3 Documentação Automática do Sistema](#documentacao-automatica)
 - [Referências](#referências)
 - [Apêndice](#apêndice)
 
@@ -177,3 +179,4 @@
 
 
 # Apêndice
+
