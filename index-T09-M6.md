@@ -66,14 +66,14 @@
   - [9.1 Modelo de Recomendação](#modelo-recomendacao)
   - [9.2 Estrutura da solução](#estrutura-solucao)
 - [10. Testes de Software](#testes-de-software)
-  - [9.1 Testes de Usabilidade para Mockup](#teste-de-usabilidade)
-  - [9.2 Testes de Integração](#teste-de-integracao)
-  - [9.3 Testes da API Externa](#teste-automatizado)
-  - [9.5 Testes de Integração do Modelo de Recomendação](#teste-de-rnf)
-- [10. Procedimento de Implantação da Solução](#procedimento-implantacao)
-  - [10.1 Procedimento de Implantação do Sistema](#procedimento-implantacao-sistema)
-  - [10.2 Procedimento de Implantação do Banco de Dados](#procedimento-implantacao-bd)
-  - [10.3 Documentação Automática do Sistema](#documentacao-automatica)
+  - [10.1 Testes de Usabilidade para Mockup](#teste-de-usabilidade)
+  - [10.2 Testes de Integração](#teste-de-integracao)
+  - [10.3 Testes da API Externa](#teste-automatizado)
+  - [10.5 Testes de Integração do Modelo de Recomendação](#teste-de-rnf)
+- [11. Procedimento de Implantação da Solução](#procedimento-implantacao)
+  - [11.1 Procedimento de Implantação do Sistema](#procedimento-implantacao-sistema)
+  - [11.2 Procedimento de Implantação do Banco de Dados](#procedimento-implantacao-bd)
+  - [11.3 Documentação Automática do Sistema](#documentacao-automatica)
 - [Referências](#referências)
 - [Apêndice](#apêndice)
 
@@ -162,21 +162,21 @@
 <conteúdo>
 # 10. Testes de Software
 <conteúdo>
-## 9.1 Testes de Usabilidade para Mockup
+## 10.1 Testes de Usabilidade para Mockup
 <conteúdo>
-## 9.2 Testes de Integração
+## 10.2 Testes de Integração
 <conteúdo>
-## 9.3 Testes da API Externa
+## 10.3 Testes da API Externa
 <conteúdo>
-## 9.4 Testes de Integração do Modelo de Recomendação
+## 10.4 Testes de Integração do Modelo de Recomendação
 <conteúdo>
-# 10. Procedimento de Implantação da Solução
+# 11. Procedimento de Implantação da Solução
 <conteúdo>
-## 10.1 Procedimento de Implantação do Sistema
+## 11.1 Procedimento de Implantação do Sistema
 <conteúdo>
-## 10.2 Procedimento de Implantação do Banco de Dados
+## 11.2 Procedimento de Implantação do Banco de Dados
 <conteúdo>
-## 10.3 Documentação Automática do Sistema
+## 11.3 Documentação Automática do Sistema
 <conteúdo>
 # Referências
 <conteúdo>
