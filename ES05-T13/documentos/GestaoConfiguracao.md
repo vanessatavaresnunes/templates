@@ -25,10 +25,10 @@
 
 - [1. Introdução](#1-introdução)
   - [1.1 Objetivo do Documento](#11-objetivo-do-documento)
-  - [1.2 Visão Geral do Gitflow](#12-visão-geral-do-gitflow)
 - [2. Política de Branches](#2-política-de-branches)
-  - [2.1 Estrutura de Branches](#21-estrutura-de-branches)
-  - [2.2 Diretrizes de Uso das Branches](#22-diretrizes-de-uso-das-branches)
+  - [2.1 Visão Geral do Gitflow](#21-visão-geral-do-gitflow)
+  - [2.2 Estrutura de Branches](#22-estrutura-de-branches)
+  - [2.3 Diretrizes de Uso das Branches](#23-diretrizes-de-uso-das-branches)
 - [3. Políticas de Commit](#3-políticas-de-commit)
 - [4. Política de Push e Pull Requests](#4-política-de-push-e-pull-requests)
 - [Referências](#referências)
@@ -39,12 +39,13 @@ _conteúdo_
 ## 1.1 Objetivo do Documento
 Este documento estabelece diretrizes claras para a utilização de boas práticas no desenvolvimento de software, visando a organização e a qualidade do código. Todos os membros da equipe devem seguir as instruções definidas.
 
-## 1.2 Visão Geral do Gitflow
+# 2. Política de Branches
+_conteúdo_
+
+## 2.1 Visão Geral do Gitflow
 Nota: Fornecer uma breve explicação sobre o Gitflow e sua importância para o gerenciamento eficiente do código fonte.
 
-# 2. Política de Branches
-
-## 2.1 Estrutura de Branches
+## 2.2 Estrutura de Branches
 Padrão de Nomenclatura das Branches:
 
 > **main**: Contém o código pronto para produção.
@@ -54,7 +55,7 @@ Padrão de Nomenclatura das Branches:
 > **release/[versao]**: Preparação para lançamento de uma nova versão. Exemplo: release/v1.0.0
 > **hotfix/[nome-do-hotfix]**: Correção urgente diretamente na produção. Exemplo: hotfix/corrige-bug-em-producao
 
-## 2.2 Diretrizes de Uso das Branches
+## 2.3 Diretrizes de Uso das Branches
 - Cada nova funcionalidade deve ser desenvolvida em uma branch de feature criada a partir da branch develop.
   - Nomeação das branches de features deve seguir o padrão feature/[nome-da-feature].
 - Todas as novas funcionalidades devem ser desenvolvidas em branches de features e integradas na branch develop através de pull requests.

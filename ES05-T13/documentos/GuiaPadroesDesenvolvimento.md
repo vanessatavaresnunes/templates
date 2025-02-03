@@ -98,10 +98,11 @@ _Sugestão de leitura: https://refactoring.guru/_
 
 ## 3.2 Arquitetura de Software
 
-- Utilize MVC (Model-View-Controller): Separe a lógica de negócios (Model), a interface do usuário (View) e o controle de entrada (Controller).
+- Utilize a Arquitetura de Três Camadas: Separe a lógica de negócios (Camada de Negócios), a interface do usuário (Camada de Apresentção) e o acesso aos dados (Camada de Dados).
   - Exemplo: Em uma aplicação Angular, utilize serviços para lógica de negócios, componentes para a interface e controladores para gerenciar a interação.
 
 # 4. Práticas de Desenvolvimento
+_conteúdo_
 
 ## 4.1 Testes Automatizados
 
