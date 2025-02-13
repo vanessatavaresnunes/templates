@@ -24,14 +24,12 @@
 
 # Sumário
 - [1. Introdução](#1-introdução)
-  - [1.1 Objetivo do Documento](#11-objetivo-do-documento)
-- [2. Backlog do Projeto](#2-backlog-do-projeto)
-  - [2.2 Atualizações do Backlog](#22-atualizações-do-backlog)
-    - [2.2.1 Sprint 1](#221-sprint-1)
-    - [2.2.2 Sprint 2](#222-sprint-2)
-    - [2.2.3 Sprint 3](#223-sprint-3)
-    - [2.2.4 Sprint 4](#224-sprint-4)
-    - [2.2.5 Sprint 5](#225-sprint-5)
+- [2. Avaliação das Sprints](#2-avaliação-das-sprints)
+  - [2.1 Sprint 1](#21-sprint-1)
+  - [2.2 Sprint 1](#21-sprint-2)
+  - [2.3 Sprint 1](#21-sprint-3)
+  - [2.4 Sprint 1](#21-sprint-4)
+  - [2.5 Sprint 1](#21-sprint-5)
 - [3. Análise de Riscos](#3-análise-de-riscos)
   - [3.1 Riscos identificados](#31-riscos-identificados)
   - [3.2 Mitigação de Riscos](#32-mitigação-de-riscos)
@@ -42,30 +40,29 @@
 
 # 1. Introdução
 _conteúdo_
+**Nota:** Insira informações sobreobjetivo do documento
 
-## 1.1 Objetivo do Documento
-
-# 2. Backlog do Projeto
+# 2. Avaliação das Sprints
 _conteúdo_
 
-## 2.2 Análise de desempenho
+## 2.1 Sprint 1
 _conteúdo_
 
-## 2.2.1 Sprint 1
+## 2.2 Sprint 2
 _conteúdo_
  **Nota:** Insira informações sobre mudanças realizadas.
 
-## 2.2.2 Sprint 2
+## 2.3 Sprint 3
 _conteúdo_
+ **Nota:** Insira informações sobre mudanças realizadas.
 
-## 2.2.3 Sprint 3
+## 2.4 Sprint 4
 _conteúdo_
+ **Nota:** Insira informações sobre mudanças realizadas.
 
-## 2.2.4 Sprint 4
+## 2.5 Sprint 5
 _conteúdo_
-
-## 2.2.5 Sprint 5
-_conteúdo_
+ **Nota:** Insira informações sobre mudanças realizadas.
 
 # 3. Análise de Riscos
 _conteúdo_
